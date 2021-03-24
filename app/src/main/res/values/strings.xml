@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Check</string>
+
+    <string-array name="list">
+         <item>Tanlang</item>
+         <item>Donar</item>
+         <item>Xot Dog</item>
+         <item>Burger</item>
+         <item>Gamburger</item>
+        <item>Chizburger</item>
+    </string-array>
+</resources>
